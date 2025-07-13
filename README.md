@@ -13,6 +13,11 @@ Este repositorio contiene una solución técnica para el ejercicio de entrevista
 - Postman (pruebas)
 
 ---
+## 🌐 Repositorio con código fuente (Acceso publico):
+
+- https://github.com/JuanOrtiz1/Productos.git
+
+---
 
 ## 📁 Estructura del Proyecto
 
